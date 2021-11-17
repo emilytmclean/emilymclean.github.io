@@ -20,4 +20,5 @@ creation of the movement. He too focuses on the demise of the nuclear family, an
 that, following their loss of exclusive jurisdiction over positions of power or work, men have also lost their sense of purpose and have consequently 
 fallen into a form of nihilistic depression. The increasing prevalence of young men failing to “launch” is attributed to the rise in single 
 mother/fatherless families since the 1950s. He further suggests that increased male participation in traditional nuclear families would benefit 
-both fathers and sons, giving fathers a unique purpose and sons a strong role model.
+both fathers and sons, giving fathers a unique purpose and sons a strong role model. While I find this to be an interesting argument, I think it is ultimately
+a flawed one. The nuclear family has really only been the hegemonic form of the familial structure in certain cultures and time periods, with other family structures like ["extended family" historically being the more popular structure](https://www.npr.org/2018/05/13/610777733/parenting-myths-and-facts). Moreso, I think Farrell fails to establish any inherent quality of men and women that the opposite gender cannot emulate.
