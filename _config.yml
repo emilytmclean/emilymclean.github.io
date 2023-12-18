@@ -8,6 +8,9 @@ keywords: Emily McLean, software, android, developer, engineer
 description: The website of Emily McLean
 locale: en_AU
 
+theme:
+  primary_color: fac1be
+
 social:
   mastodon: https://blahaj.zone/@emilyistrans
   twitter: emilytmclean
