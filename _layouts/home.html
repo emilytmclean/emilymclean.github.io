@@ -1,0 +1,9 @@
+---
+layout: base
+---
+<div id="content" {%if site.homepage_image %}style="padding-bottom:140vw;"{% endif %}>
+    {{content}}
+</div>
+{% if site.homepage_image %}
+    <div id="me" style="background-image:url({{ site.homepage_image }});"></div>
+{% endif %}
